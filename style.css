@@ -1,0 +1,93 @@
+body {
+	border-style: double;
+	border-color: black;
+	border-width: 5px;
+	margin: 10px;
+	background-color: beige;
+	
+}
+
+.title {
+	line-height: 1.7em;
+	padding: 25px;
+}
+
+.the {
+	text-align: center;
+	margin: auto;
+	font-family: Arvo, serif;
+	text-transform: uppercase;
+	font-size: 18px;
+}
+
+.analog {
+	text-align: center;
+	margin: auto;
+	font-family: Arvo, serif;
+	text-transform: uppercase;
+	font-size: 36px;
+}
+
+.specialists {
+	text-align: center;
+	margin: auto;
+	font-family: Arvo, serif;
+	text-transform: uppercase;
+	letter-spacing: .15em;
+	font-size: 20px;
+}
+
+.navbar {
+
+	font-family: VT323;
+	border-top: 3px;
+	border-top-style: solid;
+	border-bottom: 2px;
+	border-bottom-style: solid;
+	text-align: center;
+	width: 600px;
+	margin: auto;
+	font-size: 18px;
+	letter-spacing: .1em;
+
+
+}
+
+
+
+li {
+	text-transform: uppercase;
+	display: inline;
+	margin-right: 30px;
+}
+
+li:hover {
+	font-weight: bold;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+img {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.info {
+	font-family: Arvo, serif;
+	width: 600px;
+	text-align: center;
+	margin: auto;
+	font-size: 12px;
+	word-spacing: .3em;
+	letter-spacing: .1em;
+
+}
+
+
+
